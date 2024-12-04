@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tp1_flutter_bilalb/screens/quiz_page.dart';
-import 'screens/profile_page.dart';
+import 'package:tp1_flutter_bilalb/display/quiz_display.dart';
+import 'display/profile_display.dart';
 
 void main() => runApp(const MyApp());
 
